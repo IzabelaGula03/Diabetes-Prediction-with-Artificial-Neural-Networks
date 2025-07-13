@@ -1,2 +1,2 @@
 # Diabetes-Prediction-with-Artificial-Neural-Networks
-Project report and implementation of diabetes prediction using artificial neural networks. Report is written in Polish.
+Group project on diabetes prediction using artificial neural networks. Includes full report (in Polish).
